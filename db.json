@@ -1,0 +1,45 @@
+{
+  "tours": [
+    {
+      "id": "1",
+      "nombre": "Tour por las Iglesias",
+      "descripcion": "Explora las iglesias históricas más emblemáticas",
+      "tipo": "Exploración",
+      "ciudad": "Cuenca",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 5,
+      "imagen": "https://i.pinimg.com/736x/c0/c9/f2/c0c9f2827d064ccf0849e9d624b01411.jpg",
+      "precio": 50
+    },
+    {
+      "id": "2",
+      "nombre": "Tour Quilotoa",
+      "descripcion": "Explora la maravillosa laguna del Quilotoa",
+      "tipo": "Volcán",
+      "ciudad": "Latacunga",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 8,
+      "imagen": "https://i.ytimg.com/vi/OaOQ_uO2VNE/maxresdefault.jpg",
+      "precio": 50
+    },
+    {
+      "id": "23a51fd0-f297-4fb9-a0a3-999a3934bde9",
+      "name": "Ruta-Quilotoa",
+      "price": "20",
+      "imagen": "https://res.cloudinary.com/dwr4nlutg/image/upload/v1732562475/tours/no2kcodxenan7rijjowa.jpg",
+      "public_id": "tours/no2kcodxenan7rijjowa"
+    }
+  ],
+  "users": [
+    {
+      "id": "f319c13f-e7aa-48c1-9d26-9b5d5e7050a6",
+      "password": "$2b$10$FlbTUh6zwPvUaqG0.QWDguvi0Yxsp2ihXYV17f/2CpTgEbRKa7qau",
+      "name": "Byron",
+      "username": "Byron"
+    }
+  ]
+}
